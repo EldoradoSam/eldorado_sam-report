@@ -1,6 +1,6 @@
 <?php
 
-namespace rbs\report;
+namespace eldorado_sam\report;
 
 use Illuminate\Support\ServiceProvider;
 
